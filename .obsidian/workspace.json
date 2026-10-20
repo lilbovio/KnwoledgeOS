@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -167,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,6 +181,7 @@
   },
   "active": "ff45e8035f074c2e",
   "lastOpenFiles": [
+    "90 Inbox/Import Report.md",
     "10 Agent Memory/Technical Skills.md",
     "99 Archive/Imported Google Keep/Tips para entrevistas Improving.json",
     "99 Archive/Imported Google Keep/Tips para entrevistas Improving.html",
@@ -189,7 +193,6 @@
     "99 Archive/Imported Google Keep/que es la IA - improving.html",
     "99 Archive/Imported Google Keep/PowerBI y analisis de datos.json",
     "99 Archive/Imported Google Keep/PowerBI y analisis de datos.html",
-    "90 Inbox/Import Report.md",
     "04 AI/Introduction to AI and LLMs.md",
     "02 Knowledge/AI in Supply Chain.md",
     "04 AI/AI Trends 2026.md",
