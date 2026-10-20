@@ -12,4 +12,5 @@
 ## 💰 Growth & Operations
 - [[Pricing]]: Designing subscription models, tier scales, and usage billing.
 - [[Marketing]]: Distributing software solutions (SEO, organic funnels).
+- [[Content Marketing Strategy]]: 5 content pillars, build documentation, and organic distribution for Pixel by Bovio.
 - [[Sales]]: Navigating demo pitches and B2B contracts.

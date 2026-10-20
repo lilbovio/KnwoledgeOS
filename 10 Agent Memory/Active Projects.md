@@ -10,3 +10,6 @@
 3. **🌐 Portfolio Website**: Public portfolio showcasing skills and project achievements.
    - **Stack**: Next.js App Router, Vercel deployments.
    - **Goal**: Elevate Lighthouse performance to 100/100 and optimize copy for technical recruiters.
+4. **🎨 Pixel by Bovio**: Personal design & web development studio brand.
+   - **Stack**: Next.js, TypeScript, Tailwind CSS, Figma.
+   - **Goal**: Execute inbound client acquisition through the [[Content Marketing Strategy|5-Pillar Content Strategy]] ("Building Pixel by Bovio").

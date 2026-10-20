@@ -6,10 +6,12 @@
 - [[Prompt Engineering]]: Few-shot, chain-of-thought, system prompts.
 - [[AI Agents]] & [[Agentic Workflows]]: Tool calling, planning, reflection, memory.
 - [[Claude Code]]: Anthropic's CLI-based developer agent, command execution, and codebase debugging.
+- [[Physical AI and Digital Twins]]: NVIDIA Omniverse physics simulations, robotics kinematics, and synthetic data convergence.
 - [[RAG]] & [[Embeddings]]: Semantic search, document parsing, vector indexing.
 - [[Vector Databases]]: PostgreSQL pgvector, Pinecone, Chroma.
 - [[MCP]] (Model Context Protocol): Standardizing tool-use schemas.
 - [[AI Product Design]]: Latency reduction, cost estimation, UX for generative systems.
+- [[AI Trends 2026]]: Evolutionary frontiers from perception to physical AI.
 
 ---
 
@@ -27,4 +29,4 @@
 
 ## 💡 AI Startup / SaaS Ideation
 - [[10 Agent Memory/Startup Ideas|AI Startup Notebook]]
-- Project ideas: AI-driven API test generator, automated developer onboarding agent.
+- Project ideas: AI-driven API test generator (see [[Testing]]), automated developer onboarding agent.

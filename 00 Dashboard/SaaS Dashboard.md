@@ -4,7 +4,7 @@
 ## 📋 Methodology & Execution
 - **Validation**: [[Product Validation]] (Customer Discovery, landing page testing).
 - **Development**: [[MVP Development]] (Speed, tech selection, database structure).
-- **Operations**: [[Pricing]], [[Marketing]], [[Sales]], [[Product Management]].
+- **Operations**: [[Pricing]], [[Marketing]], [[Content Marketing Strategy]], [[Sales]], [[Product Management]].
 
 ---
 
@@ -20,3 +20,9 @@
 - **Description**: Enterprise SaaS targeting onboarding friction at HPE.
 - **Stack**: Next.js, Node.js, PostgreSQL, AI Agent copilot.
 - **Links**: [[01 Projects/OnboardIQ/Product Vision|Vision]], [[01 Projects/OnboardIQ/Requirements|Requirements]].
+
+### 🎨 Pixel by Bovio
+- **Status**: Active / Studio Brand
+- **Description**: Digital design, high-performance web engineering, and product studio.
+- **Strategy**: [[Content Marketing Strategy|5-Pillar Organic Content Strategy]] (Behind the Build, Education, Case Studies, Philosophy, Studio Life).
+- **Stack**: Next.js, Tailwind CSS, TypeScript, Figma.

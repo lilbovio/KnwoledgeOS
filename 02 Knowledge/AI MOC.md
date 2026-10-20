@@ -5,6 +5,7 @@
 - [[LLMs]]: Attention mechanics, context structures, tokenization processes.
 - [[Embeddings]]: Multi-dimensional semantic vectors.
 - [[Fine-Tuning]]: Adapting base networks to specialized datasets (LoRA/QLoRA).
+- [[AI Trends 2026]]: Multimodal architectures, agent horizons, and annual progress vectors.
 
 ## 💡 Prompt & Interaction Engineering
 - [[Prompt Engineering]]: Structuring contextual inputs to direct output outputs.
@@ -15,6 +16,10 @@
 - [[Agentic Workflows]]: Constructing modular chain networks and reflection checks.
 - [[MCP]]: Model Context Protocol for unified resource schemas.
 - [[Claude Code]]: Anthropic's developer-focused CLI command agent.
+
+## 🌐 Physical AI & Robotics
+- [[Physical AI and Digital Twins]]: NVIDIA Omniverse simulations, robotics kinematics, and synthetic data converging with agentic systems.
+- [[AI in Supply Chain]]: Autonomous operational agents and predictive logistics.
 
 ## 🗃️ Information Retrieval
 - [[RAG]]: Injecting domain documents into live prompt contexts.

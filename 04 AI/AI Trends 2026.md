@@ -1,16 +1,22 @@
 ---
 created: 2026-07-02
-updated: 2026-07-02
-status: "Seed"
-tags: ["ai", "trends", "multimodal", "agents", "mcp"]
+updated: 2026-10-19
+status: "Active"
+tags: ["ai", "trends", "multimodal", "agents", "mcp", "physical-ai"]
 domain: "AI"
 ---
 
 # Summary
-AI trends for 2026 highlighting the rapid pace of algorithmic improvement, multimodal architectures, AI agents, and the MCP standard.
+AI trends for 2026 highlighting the rapid pace of algorithmic improvement, multimodal architectures, AI agents, the MCP standard, and the emergence of Physical AI grounded in digital twin simulations.
 
 # Key Concepts
 - **Pace of Change**: +400% annual algorithmic improvement reported by IBM Think 2026. 44% of tech enterprises have implemented AI.
+- **The Evolution of AI Horizons**:
+  - *AlexNet (2012)*: Foundational computer vision and pattern recognition.
+  - *Perception AI*: Sensory recognition (speech, medical imaging, deep recommendation systems).
+  - *Generative AI*: Content synthesis (LLMs, code generation, multimodal diffusion).
+  - *Agentic AI*: Goal-directed reasoning, tool utilization, and autonomous task execution.
+  - *Physical AI*: Embodying intelligence in physical reality (autonomous robotics, digital twins). See [[Physical AI and Digital Twins]].
 - **Shadow AI**: Unauthorized use of AI within companies is predicted to be the main vector for data leaks in 2026.
 - **Multimodal AI Architectures**:
   - *Late fusion*: One encoder per modality, joined at the end.
@@ -29,6 +35,8 @@ AI trends for 2026 highlighting the rapid pace of algorithmic improvement, multi
 - [[AI MOC]]
 - [[AI Agents]]
 - [[MCP]]
+- [[Physical AI and Digital Twins]]
 
 # References
 - Tendencias de IA - Improving (Keep Note)
+- AI Week LATAM 2026 Nvidia Tech (Keep Note)

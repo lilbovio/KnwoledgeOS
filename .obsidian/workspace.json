@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9799935d06eec9b0",
+        "id": "f6d5e02ed7d733fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ff45e8035f074c2e",
+            "id": "7ca6f212c1db3068",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -159,8 +159,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "70652993cdac40f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,8 +190,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff45e8035f074c2e",
+  "active": "7ca6f212c1db3068",
   "lastOpenFiles": [
+    "IBM Bob.md",
+    "05 SaaS/Content Marketing Strategy.md",
+    "04 AI/Physical AI and Digital Twins.md",
     "08 Resources/1790635180463.1196340075.png",
     "99 Archive/Imported Google Keep/1790635180463.1196340075.png",
     "99 Archive/Imported Google Keep/The API economy_ bridging heterogenaious systems.json",
@@ -214,7 +228,6 @@
     "02 Knowledge/Vibe Coding.md",
     "90 Inbox/Keep/1782410969216.2020759271.png",
     "90 Inbox/Keep/1782237745635.653721012.png",
-    "90 Inbox/Keep/1781629970064.244406647.png",
     "01 Projects/Portfolio Website/Analytics Strategy.md",
     "01 Projects/Portfolio Website/Future Features.md",
     "01 Projects/Portfolio Website/Branding.md",
@@ -224,8 +237,6 @@
     "03 Career/LinkedIn.md",
     "03 Career/FAANG Preparation.md",
     "03 Career/Behavioral Interviews.md",
-    "04 AI/AI Product Design.md",
-    "04 AI/Agentic Workflows.md",
-    "02 Knowledge/Career MOC.md"
+    "04 AI/AI Product Design.md"
   ]
 }
